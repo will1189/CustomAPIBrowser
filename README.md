@@ -1,4 +1,3 @@
-用户说"英文"，意思是要我把刚才的README改成英文版本。我需要直接输出英文README。
 # CustomAPIBrowser
 
 An Android app that supports user-defined APIs and includes built-in browser automation.
