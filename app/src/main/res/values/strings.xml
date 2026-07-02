@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CustomAPIBrowser</string>
+    <string name="browser_tab">浏览器</string>
+    <string name="apis_tab">自定义API</string>
+    <string name="go">前往</string>
+    <string name="run">运行</string>
+    <string name="add_api">添加API</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="name">名称</string>
+    <string name="url">URL</string>
+    <string name="method">方法</string>
+    <string name="headers">Headers (JSON)</string>
+    <string name="body">Body (JSON)</string>
+    <string name="response">响应</string>
+    <string name="back">返回</string>
+    <string name="forward">前进</string>
+    <string name="reload">刷新</string>
+    <string name="inject_js">注入JS</string>
+    <string name="automation_script">自动化脚本</string>
+    <string name="run_automation">执行自动化</string>
+    <string name="ok">确定</string>
+</resources>
